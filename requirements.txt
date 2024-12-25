@@ -1,0 +1,11 @@
+langchain==0.0.352
+langchain-openai==0.0.5
+pandas==2.1.4
+numpy==1.26.2
+requests==2.31.0
+python-dotenv==1.0.0
+rich==13.7.0
+beautifulsoup4==4.12.2
+torch>=2.2.0
+networkx==3.2.1
+scikit-learn==1.3.2
