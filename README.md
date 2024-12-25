@@ -2,6 +2,9 @@
 
 An innovative stock trading system combining Graph Neural Networks with transformer architecture for real-time market analysis and AI-driven trading recommendations.
 
+> **Note**: This implementation is inspired by the research paper:
+> "Galformer: A Transformer with Generative Decoding and a Hybrid Loss Function for Multi-Step Stock Market Index Prediction"
+
 ## 🌟 Features
 
 - **Graph Neural Network (GNN)** for capturing market relationships
